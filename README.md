@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amitaddi2010
-- 👀 I’m interested in Application and web development
-- 🌱 I’m currently learning AI, Data Science And MI
-- 💞️ I’m looking to collaborate on AI, ML, Data science
+- 👋 Hi, I’m Amit raj saraswat
+- 👀 I’m interested in Decentralized Application and Blockchain development
+- 🌱 I’m currently learning Blockchain development ,AI, Data Science And MI
+- 💞️ I’m looking to collaborate on Blockchain development AI, ML, Data science
 - 📫 How to reach me amit.addi2010@gmail.com
 
 <!---
